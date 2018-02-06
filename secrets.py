@@ -1,0 +1,2 @@
+client_key = 'CmOwpDDPjV6R9ai9RTdsG2lcW'
+client_secret = 'oA2fwZbPow1ndsUWocxKjHszLpxZ5T5QNf7o2WHjvt64733LJl'
